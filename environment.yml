@@ -9,6 +9,6 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    - seaborns
+    - seaborn
     - sympy
     
